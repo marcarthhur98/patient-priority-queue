@@ -4,10 +4,6 @@ A small C command-line project that manages an educational patient queue with
 a sorted singly linked list. Patients with higher severity are treated first;
 patients with equal severity are treated in arrival order.
 
-Built from Marc Arthur Kentsa's APS105 Lab 9 implementation. The original node
-structure, queue operations, insertion order, and single-file organization are
-preserved. Input validation and error handling were strengthened with AI assistance.
-
 ## Build and run
 
 Requires a C11 compiler such as GCC. From this folder:
